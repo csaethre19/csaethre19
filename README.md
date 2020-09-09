@@ -1,5 +1,5 @@
-### Hi there 👋
-
+✨ Hi my name is Charlotte ✨
+⚡ About me: student of computer science and parent of two fur babies
 <!--
 **csaethre19/csaethre19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
